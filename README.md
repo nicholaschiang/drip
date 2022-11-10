@@ -19,4 +19,11 @@ I suspect that algorithm may look something like this:
    site pops up).
 3. Compare that image with previously indexed images from the same influencer or
    influencers in similar spheres. I suspect that a lot of clothing items are
-   commonly shared between people. 
+   commonly shared between people.
+
+There are existing accounts that already do this for specific celebrities (e.g.
+@finneasoutfits._). I should hit them up and ask how they go about it.
+
+This idea could also go the other way around. Perhaps that may even lead to
+better monetization: clothing companies can get a list of influencers that wear
+their clothes and then feature them on their website as social validation.
